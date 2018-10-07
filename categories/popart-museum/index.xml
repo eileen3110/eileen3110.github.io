@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Popart Museum on E.XYX</title>
+    <link>https://eileen3110.github.io/categories/popart-museum/</link>
+    <description>Recent content in Popart Museum on E.XYX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Sep 2018 01:10:39 -0400</lastBuildDate>
+    
+	<atom:link href="https://eileen3110.github.io/categories/popart-museum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pop-Art Museum</title>
+      <link>https://eileen3110.github.io/projects/popart-museum/</link>
+      <pubDate>Sun, 23 Sep 2018 01:10:39 -0400</pubDate>
+      
+      <guid>https://eileen3110.github.io/projects/popart-museum/</guid>
+      <description>                 var foo = $(&#39;#gallery&#39;); foo.poptrox({ baseZIndex: 20000, fadeSpeed: 500, overlayOpacity: 0.8, popupCloserText: &#39; &#39;, popupHeight: 150, popupLoaderText: &#39;&#39;, popupSpeed: 500, popupWidth: 150, usePopupCaption: false, usePopupCloser: false, usePopupDefaultStyling: false, usePopupNav: true, usePopupForceClose: true, usePopupLoader: true, popupPadding: 0, windowMargin: 30 });    Instagram LinkedIn  &amp;copy; Eileen Xu Yixin     </description>
+    </item>
+    
+  </channel>
+</rss>
