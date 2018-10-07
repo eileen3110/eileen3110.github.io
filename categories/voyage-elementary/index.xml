@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Voyage Elementary on E.XYX</title>
-    <link>https://eileen3110.github.io/categories/voyage-elementary/</link>
+    <link>https://www.eileenxyx.com/categories/voyage-elementary/</link>
     <description>Recent content in Voyage Elementary on E.XYX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 23 Sep 2018 01:08:56 -0400</lastBuildDate>
     
-	<atom:link href="https://eileen3110.github.io/categories/voyage-elementary/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.eileenxyx.com/categories/voyage-elementary/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Voyage Elementary</title>
-      <link>https://eileen3110.github.io/projects/voyage-elementary/</link>
+      <link>https://www.eileenxyx.com/projects/voyage-elementary/</link>
       <pubDate>Sun, 23 Sep 2018 01:08:56 -0400</pubDate>
       
-      <guid>https://eileen3110.github.io/projects/voyage-elementary/</guid>
+      <guid>https://www.eileenxyx.com/projects/voyage-elementary/</guid>
       <description>             var foo = $(&#39;#gallery&#39;); foo.poptrox({ baseZIndex: 20000, fadeSpeed: 500, overlayOpacity: 0.8, popupCloserText: &#39; &#39;, popupHeight: 150, popupLoaderText: &#39;&#39;, popupSpeed: 500, popupWidth: 150, usePopupCaption: false, usePopupCloser: false, usePopupDefaultStyling: false, usePopupNav: true, usePopupForceClose: true, usePopupLoader: true, popupPadding: 0, windowMargin: 30 });    Instagram LinkedIn  &amp;copy; Eileen Xu Yixin     </description>
     </item>
     
