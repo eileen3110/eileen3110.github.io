@@ -1,6 +1,17 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
+@import url('https://fonts.googleapis.com/css?family=Poppins');
 
+.image-cropper {
+    height: 10px;
+    overflow: hidden;
+}
+.profile-pic {
+	display: inline;
+	margin: 0 auto;
+	height: 50%;
+	width: auto;
+  }
 
 /* Slide2 */
 
@@ -1859,10 +1870,11 @@ body.touch .poptrox-popup .closer, body.touch .poptrox-popup .nav-previous, body
 
 	body, input, select, textarea {
 		color: #ffffff;
-		font-family: Impact;
+		/* font-family: Impact; */
+		font-family: 'Poppins', sans-serif;
 		font-size: 17pt;
-		font-weight: 300;
-		letter-spacing: 0.025em;
+		font-weight: 500;
+		letter-spacing: 0.05em;
 		line-height: 1.65;
 	}
 
@@ -1902,7 +1914,7 @@ body.touch .poptrox-popup .closer, body.touch .poptrox-popup .nav-previous, body
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #303030 !important;
+			color: #abe5f7 !important;
 		}
 
 		a:active {
@@ -3156,7 +3168,7 @@ body.loading .tiles article { -moz-pointer-events: none; -webkit-pointer-events:
 			}
 
 			.tiles article:nth-child(4n - 2):before {
-				background-color: #bee8f3;
+				background-color: #bee8f5;
 			}
 
 			.tiles article:nth-child(4n - 1):before {
@@ -3467,7 +3479,7 @@ body.loading .tiles article { -moz-pointer-events: none; -webkit-pointer-events:
 			}
 
 			#header .logo:hover strong {
-				background-color: #3e494b;
+				background-color: #abe5f7;
 			}
 
 			#header .logo:active strong {
@@ -3906,7 +3918,7 @@ body.loading .tiles article { -moz-pointer-events: none; -webkit-pointer-events:
 /* Main */
 
 	#main {
-		background-color: #2a2f4a;
+		background-color: #bfe7f1;
 	}
 
 		#main > * {
@@ -4118,7 +4130,7 @@ body.loading .tiles article { -moz-pointer-events: none; -webkit-pointer-events:
 		-webkit-pointer-events: none;
 		-ms-pointer-events: none;
 		pointer-events: none;
-		background: rgba(36, 41, 67, 0.9);
+		background: rgba(31, 39, 49, 0.9);
 		box-shadow: none;
 		height: 100%;
 		left: 0;
