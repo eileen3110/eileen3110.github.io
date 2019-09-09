@@ -17,7 +17,7 @@
       <pubDate>Thu, 04 Oct 2018 00:07:19 -0400</pubDate>
       
       <guid>https://www.eileenxyx.com/projects/pollinators/</guid>
-      <description>              var foo = $(&#39;#gallery&#39;); foo.poptrox({ baseZIndex: 20000, fadeSpeed: 500, overlayOpacity: 0.8, popupCloserText: &#39; &#39;, popupHeight: 150, popupLoaderText: &#39;&#39;, popupSpeed: 500, popupWidth: 150, usePopupCaption: false, usePopupCloser: false, usePopupDefaultStyling: false, usePopupNav: true, usePopupForceClose: true, usePopupLoader: true, popupPadding: 0, windowMargin: 30 });    Instagram LinkedIn  &amp;copy; Eileen Xu Yixin     </description>
+      <description>                    var foo = $(&#39;#gallery&#39;); foo.poptrox({ baseZIndex: 20000, fadeSpeed: 500, overlayOpacity: 0.8, popupCloserText: &#39; &#39;, popupHeight: 150, popupLoaderText: &#39;&#39;, popupSpeed: 500, popupWidth: 150, usePopupCaption: false, usePopupCloser: false, usePopupDefaultStyling: false, usePopupNav: true, usePopupForceClose: true, usePopupLoader: true, popupPadding: 0, windowMargin: 30 });    Instagram LinkedIn  &amp;copy; Eileen Xu Yixin     </description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Tue, 02 Oct 2018 17:23:01 -0400</pubDate>
       
       <guid>https://www.eileenxyx.com/projects/processes/</guid>
-      <description>                       var foo = $(&#39;#gallery&#39;); foo.poptrox({ baseZIndex: 20000, fadeSpeed: 500, overlayOpacity: 0.8, popupCloserText: &#39; &#39;, popupHeight: 150, popupLoaderText: &#39;&#39;, popupSpeed: 500, popupWidth: 150, usePopupCaption: true, usePopupCloser: false, usePopupDefaultStyling: false, usePopupNav: true, usePopupForceClose: true, usePopupLoader: true, popupPadding: 0, windowMargin: 30 });    Instagram LinkedIn  &amp;copy; Eileen Xu Yixin     </description>
+      <description>                         var foo = $(&#39;#gallery&#39;); foo.poptrox({ baseZIndex: 20000, fadeSpeed: 500, overlayOpacity: 0.8, popupCloserText: &#39; &#39;, popupHeight: 150, popupLoaderText: &#39;&#39;, popupSpeed: 500, popupWidth: 150, usePopupCaption: true, usePopupCloser: false, usePopupDefaultStyling: false, usePopupNav: true, usePopupForceClose: true, usePopupLoader: true, popupPadding: 0, windowMargin: 30 });    Instagram LinkedIn  &amp;copy; Eileen Xu Yixin     </description>
     </item>
     
     <item>
@@ -143,7 +143,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.eileenxyx.com/about-me/</guid>
-      <description>{{ partial &#34;header.html&#34; . }}  {{ &#34;&#34; | safeHTML }} {{ partial &#34;nav.html&#34; . }} {{ partial &#34;banner.html&#34; . }}        {{/* Career */}} I fell in love with design at Tongji University, Shanghai, where I pursued Bachelor of Engineering in Landscape Architecture. I then went on to get a Master of Architecture from Pratt Institute, from where I have started working towards architecture licensure in NYC.</description>
+      <description>{{ partial &#34;header.html&#34; . }}  {{ &#34;&#34; | safeHTML }} {{ partial &#34;nav.html&#34; . }} {{ partial &#34;banner.html&#34; . }}     --    -- {{/* Career */}} I fell in love with design at Tongji University, Shanghai, where I pursued Bachelor of Engineering in Landscape Architecture. I then went on to get a Master of Architecture from Pratt Institute, from where I have started working towards architecture licensure in NYC.</description>
     </item>
     
     <item>
