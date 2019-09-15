@@ -148,6 +148,15 @@
     
     <item>
       <title></title>
+      <link>https://www.eileenxyx.com/contact-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.eileenxyx.com/contact-me/</guid>
+      <description>{{ partial &#34;header.html&#34; . }}  {{ &#34;&#34; | safeHTML }} {{ partial &#34;nav.html&#34; . }} {{ partial &#34;banner.html&#34; . }} I fell in love with design at Tongji University, Shanghai, where I pursued Bachelor of Engineering in Landscape Architecture. I then went on to get a Master of Architecture from Pratt Institute, from where I have started working towards architecture licensure in NYC. Having experience in a professional design capacity in both an architecture studio and a developer company, I am versatile in ability, good at clear communication, and highly responsible as a team player.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://www.eileenxyx.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -171,6 +180,15 @@
       
       <guid>https://www.eileenxyx.com/processes/</guid>
       <description>{{ partial &#34;header.html&#34; . }}  {{ &#34;&#34; | safeHTML }} {{ partial &#34;nav.html&#34; . }} {{/* {{ partial &#34;banner.html&#34; . }} */}} Elements  Sample Content Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.eileenxyx.com/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.eileenxyx.com/test/</guid>
+      <description>   Close Previous Next    </description>
     </item>
     
   </channel>
