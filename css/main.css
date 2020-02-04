@@ -2289,6 +2289,9 @@ body.touch .poptrox-popup .closer, body.touch .poptrox-popup .nav-previous, body
 
 			}
 
+
+
+
 /* List */
 
 	ol {
@@ -2971,6 +2974,11 @@ body.loading .tiles article { -moz-pointer-events: none; -webkit-pointer-events:
 
 			.tiles article:nth-child(4n - 3):before {
 				background-color: #424547;
+		
+				/* background-image: -moz-linear-gradient(to top, #424547 5%, #424547 35%); 
+				background-image: -webkit-linear-gradient(to top, #424547 5%, #424547 35%); 
+				background-image: -ms-linear-gradient(to top, #424547 5%, #424547 35%); 
+				background-image: linear-gradient(to top, #424547 5%, #424547 35%);  */
 			}
 
 			.tiles article:nth-child(4n - 2):before {
