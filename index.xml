@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>E.XYX</title>
@@ -7,144 +7,69 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Oct 2018 00:07:19 -0400</lastBuildDate>
-    
-	<atom:link href="https://www.eileenxyx.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://www.eileenxyx.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pollinators Pavilion</title>
       <link>https://www.eileenxyx.com/projects/pollinators/</link>
       <pubDate>Thu, 04 Oct 2018 00:07:19 -0400</pubDate>
-      
       <guid>https://www.eileenxyx.com/projects/pollinators/</guid>
-      <description>                             var foo = $(&#39;#gallery&#39;); foo.poptrox({ baseZIndex: 20000, fadeSpeed: 500, overlayOpacity: 0.8, popupCloserText: &#39; &#39;, popupHeight: 150, popupLoaderText: &#39;&#39;, popupSpeed: 500, popupWidth: 150, usePopupCaption: false, usePopupCloser: false, usePopupDefaultStyling: false, usePopupNav: true, usePopupForceClose: true, usePopupLoader: true, popupPadding: 0, windowMargin: 30 });    Instagram LinkedIn  &amp;copy; Eileen Xu Yixin     </description>
+      <description>&lt;!DOCTYPE html&gt; Instagram LinkedIn &amp;copy; Eileen Xu Yixin </description>
     </item>
-    
     <item>
       <title>The Vision Lounge</title>
       <link>https://www.eileenxyx.com/projects/vision/</link>
       <pubDate>Thu, 04 Oct 2018 00:07:19 -0400</pubDate>
-      
       <guid>https://www.eileenxyx.com/projects/vision/</guid>
-      <description>                    var foo = $(&#39;#gallery&#39;); foo.poptrox({ baseZIndex: 20000, fadeSpeed: 500, overlayOpacity: 0.8, popupCloserText: &#39; &#39;, popupHeight: 150, popupLoaderText: &#39;&#39;, popupSpeed: 500, popupWidth: 150, usePopupCaption: false, usePopupCloser: false, usePopupDefaultStyling: false, usePopupNav: true, usePopupForceClose: true, usePopupLoader: true, popupPadding: 0, windowMargin: 30 });    Instagram LinkedIn  &amp;copy; Eileen Xu Yixin     </description>
+      <description>&lt;!DOCTYPE html&gt; Instagram LinkedIn &amp;copy; Eileen Xu Yixin </description>
     </item>
-    
     <item>
       <title>Processes</title>
       <link>https://www.eileenxyx.com/projects/processes/</link>
       <pubDate>Tue, 02 Oct 2018 17:23:01 -0400</pubDate>
-      
       <guid>https://www.eileenxyx.com/projects/processes/</guid>
-      <description>                         var foo = $(&#39;#gallery&#39;); foo.poptrox({ baseZIndex: 20000, fadeSpeed: 500, overlayOpacity: 0.8, popupCloserText: &#39; &#39;, popupHeight: 150, popupLoaderText: &#39;&#39;, popupSpeed: 500, popupWidth: 150, usePopupCaption: true, usePopupCloser: false, usePopupDefaultStyling: false, usePopupNav: true, usePopupForceClose: true, usePopupLoader: true, popupPadding: 0, windowMargin: 30 });    Instagram LinkedIn  &amp;copy; Eileen Xu Yixin     </description>
+      <description>&lt;!DOCTYPE html&gt; Instagram LinkedIn &amp;copy; Eileen Xu Yixin </description>
     </item>
-    
     <item>
       <title>Strong Veins</title>
       <link>https://www.eileenxyx.com/projects/gallery/</link>
       <pubDate>Sun, 23 Sep 2018 01:12:58 -0400</pubDate>
-      
       <guid>https://www.eileenxyx.com/projects/gallery/</guid>
-      <description>           var foo = $(&#39;#gallery&#39;); foo.poptrox({ baseZIndex: 20000, fadeSpeed: 500, overlayOpacity: 0.8, popupCloserText: &#39; &#39;, popupHeight: 150, popupLoaderText: &#39;&#39;, popupSpeed: 500, popupWidth: 150, usePopupCaption: false, usePopupCloser: false, usePopupDefaultStyling: false, usePopupNav: true, usePopupForceClose: true, usePopupLoader: true, popupPadding: 0, windowMargin: 30 });    Instagram LinkedIn  &amp;copy; Eileen Xu Yixin     </description>
+      <description>&lt;!DOCTYPE html&gt; Instagram LinkedIn &amp;copy; Eileen Xu Yixin </description>
     </item>
-    
     <item>
       <title>Penthouse Residence</title>
       <link>https://www.eileenxyx.com/projects/penthouse/</link>
       <pubDate>Sun, 23 Sep 2018 01:10:53 -0400</pubDate>
-      
       <guid>https://www.eileenxyx.com/projects/penthouse/</guid>
-      <description>                 var foo = $(&#39;#gallery&#39;); foo.poptrox({ baseZIndex: 20000, fadeSpeed: 500, overlayOpacity: 0.8, popupCloserText: &#39; &#39;, popupHeight: 150, popupLoaderText: &#39;&#39;, popupSpeed: 500, popupWidth: 150, usePopupCaption: false, usePopupCloser: false, usePopupDefaultStyling: false, usePopupNav: true, usePopupForceClose: true, usePopupLoader: true, popupPadding: 0, windowMargin: 30 });    Instagram LinkedIn  &amp;copy; Eileen Xu Yixin     </description>
+      <description>&lt;!DOCTYPE html&gt; Instagram LinkedIn &amp;copy; Eileen Xu Yixin </description>
     </item>
-    
     <item>
       <title>Pop-Art Museum</title>
       <link>https://www.eileenxyx.com/projects/popart-museum/</link>
       <pubDate>Sun, 23 Sep 2018 01:10:39 -0400</pubDate>
-      
       <guid>https://www.eileenxyx.com/projects/popart-museum/</guid>
-      <description>                 var foo = $(&#39;#gallery&#39;); foo.poptrox({ baseZIndex: 20000, fadeSpeed: 500, overlayOpacity: 0.8, popupCloserText: &#39; &#39;, popupHeight: 150, popupLoaderText: &#39;&#39;, popupSpeed: 500, popupWidth: 150, usePopupCaption: false, usePopupCloser: false, usePopupDefaultStyling: false, usePopupNav: true, usePopupForceClose: true, usePopupLoader: true, popupPadding: 0, windowMargin: 30 });    Instagram LinkedIn  &amp;copy; Eileen Xu Yixin     </description>
+      <description>&lt;!DOCTYPE html&gt; Instagram LinkedIn &amp;copy; Eileen Xu Yixin </description>
     </item>
-    
     <item>
       <title>NOMA</title>
       <link>https://www.eileenxyx.com/projects/noma/</link>
       <pubDate>Sun, 23 Sep 2018 01:09:28 -0400</pubDate>
-      
       <guid>https://www.eileenxyx.com/projects/noma/</guid>
-      <description>                    var foo = $(&#39;#gallery&#39;); foo.poptrox({ baseZIndex: 20000, fadeSpeed: 500, overlayOpacity: 0.8, popupCloserText: &#39; &#39;, popupHeight: 150, popupLoaderText: &#39;&#39;, popupSpeed: 500, popupWidth: 150, usePopupCaption: false, usePopupCloser: false, usePopupDefaultStyling: false, usePopupNav: true, usePopupForceClose: true, usePopupLoader: true, popupPadding: 0, windowMargin: 30 });    Instagram LinkedIn  &amp;copy; Eileen Xu Yixin     </description>
+      <description>&lt;!DOCTYPE html&gt; Instagram LinkedIn &amp;copy; Eileen Xu Yixin </description>
     </item>
-    
     <item>
       <title>Voyage Elementary</title>
       <link>https://www.eileenxyx.com/projects/voyage-elementary/</link>
       <pubDate>Sun, 23 Sep 2018 01:08:56 -0400</pubDate>
-      
       <guid>https://www.eileenxyx.com/projects/voyage-elementary/</guid>
-      <description>             var foo = $(&#39;#gallery&#39;); foo.poptrox({ baseZIndex: 20000, fadeSpeed: 500, overlayOpacity: 0.8, popupCloserText: &#39; &#39;, popupHeight: 150, popupLoaderText: &#39;&#39;, popupSpeed: 500, popupWidth: 150, usePopupCaption: false, usePopupCloser: false, usePopupDefaultStyling: false, usePopupNav: true, usePopupForceClose: true, usePopupLoader: true, popupPadding: 0, windowMargin: 30 });    Instagram LinkedIn  &amp;copy; Eileen Xu Yixin     </description>
+      <description>&lt;!DOCTYPE html&gt; Instagram LinkedIn &amp;copy; Eileen Xu Yixin </description>
     </item>
-    
     <item>
       <title>Urban Vacuum</title>
       <link>https://www.eileenxyx.com/projects/urban-vacuum/</link>
       <pubDate>Sun, 23 Sep 2018 00:34:06 -0400</pubDate>
-      
       <guid>https://www.eileenxyx.com/projects/urban-vacuum/</guid>
-      <description>                 var foo = $(&#39;#gallery&#39;); foo.poptrox({ baseZIndex: 20000, fadeSpeed: 500, overlayOpacity: 0.8, popupCloserText: &#39; &#39;, popupHeight: 150, popupLoaderText: &#39;&#39;, popupSpeed: 500, popupWidth: 150, usePopupCaption: false, usePopupCloser: false, usePopupDefaultStyling: false, usePopupNav: true, usePopupForceClose: true, usePopupLoader: true, popupPadding: 0, windowMargin: 30 });    Instagram LinkedIn  &amp;copy; Eileen Xu Yixin     </description>
+      <description>&lt;!DOCTYPE html&gt; Instagram LinkedIn &amp;copy; Eileen Xu Yixin </description>
     </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.eileenxyx.com/about-me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.eileenxyx.com/about-me/</guid>
-      <description>{{ partial &#34;header.html&#34; . }}  {{ &#34;&#34; | safeHTML }} {{ partial &#34;nav.html&#34; . }} {{ partial &#34;banner.html&#34; . }}     --    -- {{/* Career */}} I fell in love with design at Tongji University, Shanghai, where I pursued Bachelor of Engineering in Landscape Architecture. I then went on to get a Master of Architecture from Pratt Institute, from where I have started working towards architecture licensure in NYC.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.eileenxyx.com/contact-me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.eileenxyx.com/contact-me/</guid>
-      <description>{{ partial &#34;header.html&#34; . }}  {{ &#34;&#34; | safeHTML }} {{ partial &#34;nav.html&#34; . }} {{ partial &#34;banner.html&#34; . }} I fell in love with design at Tongji University, Shanghai, where I pursued Bachelor of Engineering in Landscape Architecture. I then went on to get a Master of Architecture from Pratt Institute, from where I have started working towards architecture licensure in NYC. Having experience in a professional design capacity both in an architecture studio and with a developer, I am versatile in ability, good at clear communication, and highly responsible as a team player.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.eileenxyx.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.eileenxyx.com/contact/</guid>
-      <description>{{ partial &#34;header.html&#34; . }}  {{ &#34;&#34; | safeHTML }} {{ partial &#34;nav.html&#34; . }} {{/* {{ partial &#34;banner.html&#34; . }} */}} {{ &#34;&#34; | safeHTML}} {{ if .Site.Params.Contact.enable }} {{ partial &#34;contact.html&#34; . }} {{ end }} {{/* {{ &#34;&#34; | safeHTML}} {{ if .Site.Params.Footer.enable }} {{ partial &#34;footer.html&#34; . }} {{ end }} */}}  {{ &#34;&#34; | safeHTML}} {{ partial &#34;js.html&#34; . }}  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.eileenxyx.com/elements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.eileenxyx.com/elements/</guid>
-      <description>Elements - Forty by HTML5 UP      Forty by HTML5 UP  Menu   Home Landing Generic Elements  Get Started Log In   Elements  Sample Content Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.eileenxyx.com/processes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.eileenxyx.com/processes/</guid>
-      <description>{{ partial &#34;header.html&#34; . }}  {{ &#34;&#34; | safeHTML }} {{ partial &#34;nav.html&#34; . }} {{/* {{ partial &#34;banner.html&#34; . }} */}} Elements  Sample Content Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.eileenxyx.com/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.eileenxyx.com/test/</guid>
-      <description>   Close Previous Next    </description>
-    </item>
-    
   </channel>
 </rss>

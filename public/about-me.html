@@ -1,0 +1,86 @@
+<!DOCTYPE HTML>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+	{{ partial "header.html" . }}
+	<body>
+			
+	{{ "<!-- Wrapper -->" | safeHTML }}
+		<div id="wrapper">
+	
+			{{ partial "nav.html" . }}
+	
+			{{ partial "banner.html" . }}
+	
+			<br> <br>
+	
+				<!-- Main -->
+					<div id="main" class="alt">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+								
+
+									<hr class="major" />
+
+									<!-- Elements -->
+										<div class="row 200%">
+											<div class="6u 12u$(medium)">
+													
+													  <img src="/img/about-me/profile00.jpg" alt="" />
+													
+
+											</div>
+											<div class="6u$ 12u$(medium)">
+													<!-- <div class="box alt">
+														<div class="row 50% uniform">
+															<div class="4u"><span class="image fit"><img src="/img/about-me/profile01.jpg" alt="" /></span></div>
+															<div class="4u"><span class="image fit"><img src="/img/about-me/profile02.jpg" alt="" /></span></div>
+															<div class="4u$"><span class="image fit"><img src="/img/about-me/profile03.jpg" alt="" /></span></div> -->
+															<!-- Break -->
+															<!-- <div class="4u"><span class="image fit"><img src="/img/about-me/profile04.jpg" alt="" /></span></div>
+															<div class="4u"><span class="image fit"><img src="/img/about-me/profile05.jpg" alt="" /></span></div>
+															<div class="4u$"><span class="image fit"><img src="/img/about-me/profile06.jpg" alt="" /></span></div>
+													<br><br> -->
+												
+													{{/*  <h4>Career</h4>  */}}
+													<p>I fell in love with design at <b>Tongji University</b>, Shanghai, where I pursued <i>Bachelor of Engineering in Landscape Architecture</i>. I then went on to get a <i>Master of Architecture</i> from <b>Pratt Institute</b>, from where I have started working towards architecture licensure in NYC. <br>I am a highly responsible team player, and also have much experience leading and coordinating teams.</p>
+													<h4>Forte</h4>
+													<p>On top of proficient <b>CAD</b> skills and an obsession with refined and detailed modeling in Rhino and Maya, I am comfortable in producing quality presentations with visuals, audios, and motion pictures, constantly diving deeper into more tools that aid design and production (Grasshopper, Dynamo, AR/VR, Adobe Suite).</p>
+													{{/*  <h4>Hobbies</h4>  */}}
+													<!-- <p>I enjoy yoga and bouldering, indulge in playing classical piano, and is always down for a game of chess or table tennis, or a night of social dancing!</p> -->
+													
+													</div>
+
+													
+
+												<!-- Box -->
+												
+													<div class="box">
+														<p>left: <i>Self-Portrait of a Young Man in his Fifties</i> <br>
+															banner: <i>Measuring Space with Artifacts and the Body</i>, Artistic Collaboration with Dan Xue</p>
+													</div>
+
+											
+											</div>
+										</div>
+
+								</div>
+							</section>
+
+					</div>
+
+				
+	{{ "<!-- Footer -->" | safeHTML}}
+			{{ if .Site.Params.Footer.enable }}
+				{{ partial "footer.html" . }}
+			{{ end }}
+			
+
+			</div>
+
+			{{ "<!-- Scripts -->" | safeHTML}}
+			{{ partial "js.html" . }}
+
+	</body>
+</html>

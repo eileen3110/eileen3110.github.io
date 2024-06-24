@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+	{{ partial "header.html" . }}
+	<body>
+			
+	{{ "<!-- Wrapper -->" | safeHTML }}
+		<div id="wrapper">
+	
+			{{ partial "nav.html" . }}
+	
+			{{ partial "banner.html" . }}
+	
+			<br> <br>
+	
+	<!-- Main -->
+	<div id="main" class="alt">
+
+			<!-- One -->
+				<section id="one">
+							<div class="inner">
+							<hr class="major" />
+
+									<!-- Elements -->
+										<div class="row 200%">
+											<div class="6u 12u$(medium)">
+					
+					<p>I fell in love with design at <b>Tongji University</b>, Shanghai, where I pursued <i>Bachelor of Engineering in Landscape Architecture</i>. I then went on to get a <i>Master of Architecture</i> from <b>Pratt Institute</b>, from where I have started working towards architecture licensure in NYC. 
+						<br>Having experience in a professional design capacity both in an architecture studio and with a developer, I am versatile in ability, good at clear communication, and highly responsible as a team player.
+						<br>On top of proficient <b>CAD</b> skills, I am comfortable in producing quality presentations in multiple mediums, and good at tasks of scheduling and budgeting.</p>
+					
+					</div>
+					<div class="6u$ 12u$(medium)">
+							<div class="box"><p>Banner img: <i>Measuring Objects with the Body</i>, art collaboration with <b>Dan Xue</b></p>
+</div>
+					</div>
+
+					</section>
+
+			{{ "<!-- Contact -->" | safeHTML}}
+			{{ if .Site.Params.Contact.enable }}
+				{{ partial "contact.html" . }}
+			{{ end }}
+
+		{{/*  {{ "<!-- Footer -->" | safeHTML}}
+			{{ if .Site.Params.Footer.enable }}
+				{{ partial "footer.html" . }}
+			{{ end }}  */}}
+
+		</div>
+
+	{{ "<!-- Scripts -->" | safeHTML}}
+		{{ partial "js.html" . }}
+
+	</body>
+</html>
