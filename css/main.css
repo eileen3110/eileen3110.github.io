@@ -3551,7 +3551,7 @@ body.loading .tiles article { -moz-pointer-events: none; -webkit-pointer-events:
 		height: 60vh;
 		margin-bottom: -3.25em;
 		max-height: 32em;
-		min-height: 22em;
+		min-height: 5em;
 		position: relative;
 		top: -3.25em;
 	}
@@ -3640,8 +3640,8 @@ body.loading .tiles article { -moz-pointer-events: none; -webkit-pointer-events:
 				}
 
 		#banner.major {
-			height: 75vh;
-			min-height: 30em;
+			height: 10vh;
+			min-height: 5em;
 			max-height: 50em;
 		}
 
